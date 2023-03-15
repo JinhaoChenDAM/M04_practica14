@@ -1,6 +1,6 @@
-# Classe Cat
+# Clase Cat
 class Cat:
-    # Constructor de classe Cat
+    # Constructor de clase Cat
     def __init__(self, breed, color, eyeColor, weight, height, age):
         self.breed = breed
         self.color = color
