@@ -1,6 +1,6 @@
-# Classe Vehicle
+# Clase Vehicle
 class Vehicle:
-    # Constructor de classe Vehicle
+    # Constructor de clase Vehicle
     def __init__(self, tipo, marca, color, largo, ancho, alto):
         self.tipo = tipo
         self.marca = marca
